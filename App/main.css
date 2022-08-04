@@ -1,0 +1,53 @@
+/* <hr> */
+
+.hr-terms {
+  width: 75%;
+}
+
+/* header */
+
+.header-text {
+  position: relative;
+  font-size: 75px;
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(70, 21, 158, 1) 35%,
+    rgba(25, 102, 117, 1) 100%
+  );
+}
+
+.todo-header-text {
+  text-decoration: none !important;
+}
+
+.home-link {
+  position: absolute;
+  left: 0%;
+}
+
+.spinner-icon {
+  font-size: 100px;
+  position: absolute;
+  right: 2%;
+}
+
+.todo-icon {
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 200;
+  font-size: 300px;
+  color: rgba(0, 0, 0, 0.089);
+}
+
+/* about */
+.about-us {
+  font-style: italic;
+  color: blue;
+  font-size: 50px;
+}
+
+/* form */
+
+/* footer */
